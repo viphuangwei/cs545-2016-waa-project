@@ -1,0 +1,11 @@
+Scrum: https://www.scrumwise.com
+U: ndphuong.dcp@gmail.com
+P: 123456
+
+UI Mockup: https://waa.mybalsamiq.com
+- Related file: waa.xml
+
+Code Management: https://github.com/NewBee2014/cs545-2016-waa-project
+
+Apache Tiles: https://tiles.apache.org/
+
